@@ -31,3 +31,9 @@ Aplikasi Pemantauan Aktivitas Lari adalah aplikasi Android yang dirancang untuk 
    - Lihat statistik lengkap Anda dalam tab "Statistik" untuk melihat kemajuan Anda dari waktu ke waktu.
 4. *Pengaturan*:
    - Sesuaikan pengaturan aplikasi sesuai dengan preferensi Anda dalam tab "Pengaturan".
+  
+## Link Figma
+https://www.figma.com/file/TbjeN7PNvJBJyMW3PNxzCI/PAM-10?type=design&node-id=0%3A1&mode=dev&t=LHr0OI9vpSv1ZaWP-1
+
+## Link Laporan
+https://docs.google.com/document/d/1_iSQTlRUiWopzsaEkMdhClCHodd6XoZJEwQp6b4azM8/edit
